@@ -1,4 +1,4 @@
 # AwsFotografia
 
-Site awsFotografia.
-Ao amigo Andrews Irving
+Site AWSFotografia.
+Desenvolvimento cordial ao meu amigo e adorado irmão, Andrews Irving - Fotografo na cidade de Campinas/ SP
